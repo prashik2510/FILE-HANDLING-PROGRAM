@@ -14,9 +14,13 @@
 
 ##This repository contains a collection of C programs that demonstrate different file operations such as reading and writing to files, creating files and appending data during file operations. The programs serve as a practical guide to understand how files are managed in C using standard library functions.
 It covers common scenarios when working with files in C, including:
+
 -Creating new files
+
 -Writing to files
+
 -Reading from files
+
 -Appending data to existing files
 
 
